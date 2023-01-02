@@ -1,0 +1,11 @@
+# all ignore #
+/*
+/.**
+
+### zsh
+!/.zshrc
+!/.zsh_history
+
+# global #
+!/install.sh
+!.gitignore
